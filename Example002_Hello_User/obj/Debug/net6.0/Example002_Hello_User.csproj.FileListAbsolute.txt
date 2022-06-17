@@ -1,0 +1,15 @@
+B:\Git study\C#\Examples\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.exe
+B:\Git study\C#\Examples\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.deps.json
+B:\Git study\C#\Examples\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.runtimeconfig.json
+B:\Git study\C#\Examples\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.dll
+B:\Git study\C#\Examples\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.pdb
+B:\Git study\C#\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.csproj.AssemblyReference.cache
+B:\Git study\C#\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git study\C#\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.AssemblyInfoInputs.cache
+B:\Git study\C#\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.AssemblyInfo.cs
+B:\Git study\C#\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.csproj.CoreCompileInputs.cache
+B:\Git study\C#\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.dll
+B:\Git study\C#\Examples\Example002_Hello_User\obj\Debug\net6.0\refint\Example002_Hello_User.dll
+B:\Git study\C#\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.pdb
+B:\Git study\C#\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.genruntimeconfig.cache
+B:\Git study\C#\Examples\Example002_Hello_User\obj\Debug\net6.0\ref\Example002_Hello_User.dll
