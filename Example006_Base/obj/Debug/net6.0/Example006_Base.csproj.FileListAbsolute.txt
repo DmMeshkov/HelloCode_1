@@ -1,0 +1,15 @@
+B:\Git study\C#\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.exe
+B:\Git study\C#\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.deps.json
+B:\Git study\C#\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.runtimeconfig.json
+B:\Git study\C#\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.dll
+B:\Git study\C#\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.pdb
+B:\Git study\C#\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.AssemblyReference.cache
+B:\Git study\C#\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git study\C#\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfoInputs.cache
+B:\Git study\C#\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfo.cs
+B:\Git study\C#\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.CoreCompileInputs.cache
+B:\Git study\C#\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.dll
+B:\Git study\C#\Examples\Example006_Base\obj\Debug\net6.0\refint\Example006_Base.dll
+B:\Git study\C#\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.pdb
+B:\Git study\C#\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.genruntimeconfig.cache
+B:\Git study\C#\Examples\Example006_Base\obj\Debug\net6.0\ref\Example006_Base.dll
