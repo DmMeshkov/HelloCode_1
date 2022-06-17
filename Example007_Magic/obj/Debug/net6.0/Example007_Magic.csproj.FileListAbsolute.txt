@@ -1,0 +1,15 @@
+B:\Git study\C#\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.exe
+B:\Git study\C#\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.deps.json
+B:\Git study\C#\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.runtimeconfig.json
+B:\Git study\C#\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.dll
+B:\Git study\C#\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.pdb
+B:\Git study\C#\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.AssemblyReference.cache
+B:\Git study\C#\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git study\C#\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfoInputs.cache
+B:\Git study\C#\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfo.cs
+B:\Git study\C#\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.CoreCompileInputs.cache
+B:\Git study\C#\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.dll
+B:\Git study\C#\Examples\Example007_Magic\obj\Debug\net6.0\refint\Example007_Magic.dll
+B:\Git study\C#\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.pdb
+B:\Git study\C#\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.genruntimeconfig.cache
+B:\Git study\C#\Examples\Example007_Magic\obj\Debug\net6.0\ref\Example007_Magic.dll
